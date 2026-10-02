@@ -1,3 +1,22 @@
+# ☀️🔋 AI-Driven PV–BESS Optimization Framework for Jabalpur
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Case%20Study-Jabalpur%2C%20Madhya%20Pradesh-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Google%20Colab-Ready-yellow?style=for-the-badge&logo=googlecolab">
+  <img src="https://img.shields.io/badge/NASA%20POWER-Data-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/pvlib-PV%20Modelling-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NSGA--II-Multi--Objective-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Monte%20Carlo-1000%20Iterations-teal?style=for-the-badge">
+
+</p>
+
+<p align="center">
+  <b>Integrated AI, Battery Degradation, Multi-Objective Optimization and Techno-Economic Analysis for Renewable Energy Storage</b>
+</p>
+
+---
 ## 🎯 Research Objective
 
 The central research question is:
@@ -6,6 +25,7 @@ The central research question is:
 
 The framework investigates the interaction between:
 
+```text
 ☀️ Solar Resource
        ↓
 📊 PV Generation
